@@ -1,0 +1,37 @@
+{
+    "client": "",
+    "data": [
+        {
+            "idHeader": "65bb03b008f35995ef78694b",
+            "OrderNumber": "",
+            "HeaderId": "",
+            "SourceTransactionNumber": "1706754993783",
+            "SourceTransactionSystem": "OPS",
+            "BusinessUnitName": "DUMMY SAN JUAN",
+            "BuyingPartyName": "DUMMY_POCHTECA",
+            "RequestedFulfillmentOrganizationName": "DUMMY SAN JUAN",
+            "BuyingPartyContactName": "",
+            "TransactionType": "VENTA_POCHTECA",
+            "RequestedShipDate": "2023-10-06T00:44:36+00:00",
+            "TransactionalCurrencyName": "Mexican Peso",
+            "CustomerPONumber": "",
+            "PaymentTerms": "IMMEDIATE",
+            "IdLoad": "",
+            "lines": [
+                {
+                    "IdLine": "65bb03b0017e26d1c356a036",
+                    "LineNumber": "",
+                    "idHeader": "65bb03b008f35995ef78694b",
+                    "HeaderId": "",
+                    "LineId": "",
+                    "TransactionCategoryCode": "",
+                    "TransactionLineType": "",
+                    "ProductNumber": "IN10002",
+                    "UnitSellingPrice": 100,
+                    "OrderedQuantity": 2,
+                    "OrderedUOMCode": "UN"
+                }
+            ]
+        }
+    ]
+}

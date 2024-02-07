@@ -1,0 +1,38 @@
+{
+    "idHeader": "",
+    "OrderNumber": "",
+    "HeaderId": "",
+    "SourceTransactionNumber": "",
+    "SourceTransactionSystem": "OPS",
+    "BusinessUnitName": "China Business Unit",
+    "BuyingPartyName": "Guangzhou Development Co",
+    "RequestedFulfillmentOrganizationName": "",
+    "BuyingPartyContactName": "Kai Zhao",
+    "TransactionType": "",
+    "RequestedShipDate": "2024-01-29T21:23:57+00:00",
+    "TransactionalCurrencyName": "Yuan Renminbi",
+    "CustomerPONumber": "",
+    "PaymentTerms": "",
+    "IdLoad": "",
+    "lines": [
+        {
+            "IdLine": "",
+            "LineNumber": "",
+            "idHeader": "",
+            "HeaderId": "",
+            "LineId": "",
+            "TransactionCategoryCode": "ORDER",
+            "TransactionLineType": "Buy",
+            "ProductNumber": "AS86003",
+            "UnitSellingPrice": 0,
+            "OrderedQuantity": 1,
+            "OrderedUOMCode": "zzu"
+        }
+    ],
+    "add": {
+        "orgCode": "050",
+        "orgName": "",
+        "shipCriteria": "",
+        "shipRule": ""
+    }
+}

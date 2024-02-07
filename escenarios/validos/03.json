@@ -1,0 +1,38 @@
+{
+    "idHeader": "",
+    "OrderNumber": "",
+    "HeaderId": "",
+    "SourceTransactionNumber": "",
+    "SourceTransactionSystem": "OPS",
+    "BusinessUnitName": "US1 Business Unit",
+    "BuyingPartyName": "Mary Whitaker",
+    "RequestedFulfillmentOrganizationName": "",
+    "BuyingPartyContactName": "Mary Whitaker",
+    "TransactionType": "",
+    "RequestedShipDate": "2024-01-29T21:23:57+00:00",
+    "TransactionalCurrencyName": "US Dollar",
+    "CustomerPONumber": "",
+    "PaymentTerms": "",
+    "IdLoad": "",
+    "lines": [
+        {
+            "IdLine": "",
+            "LineNumber": "",
+            "idHeader": "",
+            "HeaderId": "",
+            "LineId": "",
+            "TransactionCategoryCode": "ORDER",
+            "TransactionLineType": "Buy",
+            "ProductNumber": "AS35001",
+            "UnitSellingPrice": 0,
+            "OrderedQuantity": 1,
+            "OrderedUOMCode": "zzu"
+        }
+    ],
+    "add": {
+        "orgCode": "002",
+        "orgName": "",
+        "shipCriteria": "",
+        "shipRule": ""
+    }
+}

@@ -1,0 +1,11 @@
+1 Tablas y funciones
+2 integracion para obtener las ordenes y enviar a visual
+3 integracion para recuperar log
+4 integracion para creacion de orden (asinc)
+5 api real time
+6 reporte y app para crear escenario
+7 tabla en visual
+8 boton de envio
+9 cambair estatus en visual
+10 agente de escucha en visual
+11 documentacion

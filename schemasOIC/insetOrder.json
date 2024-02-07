@@ -1,0 +1,32 @@
+{
+    "SourceTransactionNumber": "1706650179984",
+    "SourceTransactionSystem": "OPS",
+    "SourceTransactionId": "1706650179984",
+    "BusinessUnitName": "Supremo US Business Unit",
+    "BuyingPartyName": "Fit N Fine Equipment",
+    "BuyingPartyContactName": "Katie Morton",
+    "TransactionType": null,
+    "RequestedShipDate": "2024-01-29T21:23:57+00:00",
+    "RequestedFulfillmentOrganizationName": null,
+    "PaymentTerms": "30 Net",
+    "TransactionalCurrencyName": "US Dollar",
+    "RequestingBusinessUnitName": "Supremo US Business Unit",
+    "FreezePriceFlag": false,
+    "FreezeShippingChargeFlag": false,
+    "FreezeTaxFlag": false,
+    "SubmittedFlag": true,
+    "SourceTransactionRevisionNumber": 1,
+    "lines": [
+        {
+            "SourceTransactionLineId": "1",
+            "SourceTransactionLineNumber": "1",
+            "SourceTransactionScheduleId": "1",
+            "SourceScheduleNumber": "1",
+            "TransactionCategoryCode": "ORDER",
+            "TransactionLineType": "Buy",
+            "ProductNumber": "SUPREMO5000",
+            "OrderedQuantity": 1,
+            "OrderedUOMCode": "Ea"
+        }
+    ]
+}

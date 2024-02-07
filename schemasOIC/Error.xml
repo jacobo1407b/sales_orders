@@ -1,0 +1,26 @@
+<result>
+	<stack>
+		CREACION
+	</stack>
+	<code>
+		400
+	</code>
+	<name>
+		REST ORACLE
+	</name>
+	<err>
+		<message>
+			The request failed because it doesnt include a value for attribute BusinessUnitName, or value MX_PMP_SJUff that it does provide isnt valid
+		</message>
+	</err>
+	<err>
+		<message>
+			The request failed because it doesnt include a value for attribute RequestingBusinessUnitName, or value MX_PMP_SJUff that it does provide isnt valid
+		</message>
+	</err>
+	<err>
+		<message>
+			SourceTransactionLineNumber 1, SourceScheduleNumber 1: The request couldnt be completed because it doesnt include a value for the BillToSiteUseId attribute
+		</message>
+	</err>
+</result>

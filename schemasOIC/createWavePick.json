@@ -1,0 +1,16 @@
+{
+    "SourceSystemName": "OPS",
+    "ShipFromOrganizationCode": "500",
+    "ReleaseStatus": "All",
+    "Customer": "Fit N Fine Equipment",
+    "OrderTypeCode":"SALES_ORDER",
+    "OrderNumber": "1706650179984",
+    "PriorReservationsOnlyFlag": true,
+    "IncludeAssignedLinesFlag": false,
+    "PickReleaseFlag": true,
+    "AutoPickConfirmFlag": true,
+    "ShipConfirmRule": "Auto Ship",
+    "CreateShipmentsFlag": true,
+    "ShipmentCreationCriteria": "Across orders",
+    "ReleaseMode": "ONLINE"
+}
